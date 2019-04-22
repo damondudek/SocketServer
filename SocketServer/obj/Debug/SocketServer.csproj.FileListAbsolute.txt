@@ -1,0 +1,17 @@
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dkojo\Documents\Visual Studio 2017\Projects\SocketServer_Object\SocketServer\obj\Debug\SocketServer.csproj.CopyComplete
